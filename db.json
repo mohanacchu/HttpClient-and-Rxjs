@@ -1,0 +1,39 @@
+{
+"People": [
+    {
+           "name":"Mohan",
+            "online":false,
+            "age":23
+        },
+        {
+            "name":"Arnoldo",
+            "online":true,
+            "age":22
+        },
+        {
+            "name":"Brad pitt",
+            "online":true,
+            "age":25
+        },
+     {
+            "name":"Calvin Harris",
+            "online":true,
+            "age":25
+        },
+        {
+            "name":"Dominic",
+            "online":false,
+            "age":28
+        },
+        {   "name":"Emma stone",
+            "online":true,
+            "age":32
+        },
+        {
+            "name":"F**cker",
+            "online":false,
+            "age":24
+        }
+
+]
+}
